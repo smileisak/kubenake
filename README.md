@@ -1,4 +1,4 @@
-# KubeNake [![Go Report Card](https://goreportcard.com/badge/github.com/smileisak/kubenake)](https://goreportcard.com/report/github.com/smileisak/kubenake)
+# KubeNake [![Go Report Card](https://goreportcard.com/badge/github.com/smileisak/kubenake)](https://goreportcard.com/report/github.com/smileisak/kubenake) [![Build Status](https://travis-ci.org/smileisak/kubenake.svg?branch=master)](https://travis-ci.org/smileisak/kubenake)
 
 KubeNake is a simple filter written in go to decode [Kubernetes](https://kubernetes.io) secrets.
 
