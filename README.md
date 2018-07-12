@@ -25,3 +25,7 @@ metadata:
   name: example
   namespace: default
 ```
+
+## Contributing
+
+Feel free to send PRs, i'll be so grateful.
